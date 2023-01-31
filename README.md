@@ -2,8 +2,8 @@
 
 My name is Will, I am currently a Junior at Kent State University studying Computer Science.
 
-- 🔭 I'm currently working with C++ and Python in my university coursework.
-- 🧗 I'm learning Typescript/Javascript for personal projects.
+- 🔭 I'm currently working with C++, p5.js, and Swift/UIKit in my university coursework.
+- 🧗 I'm learning SwiftUI in order to publish my first iOS app on the Apple App Store.
 - 🤖 I'm currently looking for a summer internship!
 - 📫 How to reach me: Send me an email!
 - 😄 Pronouns: He/Him
