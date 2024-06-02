@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Will, I am currently a Senior at Kent State University studying Computer Science.
+My name is Will, currently a Senior at Kent State University studying Computer Science and contracted full stack software developer.
 
-Python, TypeScript, React, C++, Rust, C#, ...
+Python, TypeScript, React, Rust, C++, C#, ...
 
 mac user, light mode advocate
 
